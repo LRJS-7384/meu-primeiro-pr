@@ -13,4 +13,4 @@ Este projeto foi criado para exercitar o processo de:
 
 ## Como contribuir
 
-Sinta-se livre para fazer um fork e enviar sugestões atraves de Pull Requests.
+Sinta-se livre para fazer um fork e enviar sugestões através de Pull Requests.
